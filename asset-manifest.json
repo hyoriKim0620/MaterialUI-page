@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MaterialUI-page/static/css/main.8a685450.css",
+    "main.js": "/MaterialUI-page/static/js/main.58f26f38.js",
+    "static/js/787.9ea66cc1.chunk.js": "/MaterialUI-page/static/js/787.9ea66cc1.chunk.js",
+    "index.html": "/MaterialUI-page/index.html",
+    "main.8a685450.css.map": "/MaterialUI-page/static/css/main.8a685450.css.map",
+    "main.58f26f38.js.map": "/MaterialUI-page/static/js/main.58f26f38.js.map",
+    "787.9ea66cc1.chunk.js.map": "/MaterialUI-page/static/js/787.9ea66cc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a685450.css",
+    "static/js/main.58f26f38.js"
+  ]
+}
